@@ -88,11 +88,11 @@ myname50   _temp   j     a23b9      retVal
 
 下表列出了 C 中的保留字(非完整版)。这些保留字不能作为常量名、变量名或其他标识符名称。 
 
-![](img\key1.png)
+![](./img/key1.png)
 
 #### C99和c11新增的关键词
 
-![](img\new_key.png)
+![](./img/new_key.png)
 
 #### C 中的空格
 
@@ -122,7 +122,7 @@ c语言数据类型大致分为:
 
 ##### 整型的每种类型所占内存的空间
 
-![](img\int.png)
+![](./img/int.png)
 
 使用代码进行判断不同类型所占的空间(sizeof)
 
@@ -147,7 +147,7 @@ int main()
 
 ##### 浮点型所占内存的空间
 
-![](img\float.png)
+![](./img/float.png)
 
 代码使用sizeof计算
 
